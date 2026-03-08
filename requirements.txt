@@ -1,0 +1,7 @@
+Gradio
+# Transformers
+llama-cpp-python
+huggingface_hub
+python-dotenv
+ddgs
+yfinance
