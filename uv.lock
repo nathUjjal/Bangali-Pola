@@ -112,7 +112,7 @@ wheels = [
 ]
 
 [[package]]
-name = "baal-chera-agent"
+name = "Bangali-Pola"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

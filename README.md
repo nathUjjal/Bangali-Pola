@@ -2,7 +2,7 @@
 
 # Bangali-Pola
 
-A quirky and knowledgeable AI assistant powered by Mistral-7B-Instruct-v0.3-GGUF model. Baal-Chera can answer questions, search the web, and look up stock prices.
+A quirky and knowledgeable AI assistant powered by Mistral-7B-Instruct-v0.3-GGUF model. Bangali-Pola can answer questions, search the web, and look up stock prices.
 
 ## Features
 
