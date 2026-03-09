@@ -9,6 +9,7 @@ dependencies = [
     "duckduckgo-search>=8.1.1",
     "gradio>=6.9.0",
     "huggingface-hub>=1.6.0",
+    "langchain-groq>=1.1.2",
     "llama-cpp-python>=0.3.16",
     "python-dotenv>=1.2.2",
     "yfinance>=1.2.0",

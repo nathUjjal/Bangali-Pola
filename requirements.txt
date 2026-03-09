@@ -5,3 +5,5 @@ huggingface_hub
 python-dotenv
 ddgs
 yfinance
+langchain_groq
+

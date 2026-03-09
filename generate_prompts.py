@@ -31,8 +31,8 @@ class GeneratePrompts:
             self.append_user_prompt(new_usr_prompt);
         if new_llm_response is not None:
             self.append_llm_response(new_llm_response)
-        for message in self.prompts:
-            print(f"{message['query_number']} ||| {message['role']} : {message['content']}")
+        # for message in self.prompts:
+        #     print(f"{message['query_number']} ||| {message['role']} : {message['content']}")
         return self.prompts
     
 if __name__ == "__main__":
